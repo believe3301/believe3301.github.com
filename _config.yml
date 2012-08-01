@@ -13,7 +13,7 @@ custom:
     category:
         linux:  Linux
         perf: 性能调优
-        tool: 开发工具
+        tool: 工具
         cloud:  云计算
         travel: 旅游
         life: 生活
@@ -26,7 +26,7 @@ custom:
         title: 性能调优
 
       - name:  tool
-        title: 开发工具
+        title: 工具
 
       - name:  cloud
         title: 云计算
