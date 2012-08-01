@@ -1,0 +1,48 @@
+markdown: kramdown
+pygments: true
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+name: codeserf
+host: believe3301.github.com
+desc: 记录工作、生活上的点滴
+
+custom:
+    category:
+        linux:  Linux
+        perf: 性能调优
+        tool: 开发工具
+        cloud:  云计算
+        travel: 旅游
+        life: 生活
+
+    categories:
+      - name:  linux
+        title: Linux
+
+      - name:  perf
+        title: 性能调优
+
+      - name:  tool
+        title: 开发工具
+
+      - name:  cloud
+        title: 云计算
+
+      - name:  travel
+        title: 旅游
+
+      - name:  life
+        title: 生活
+
+meta:
+    author:
+        name: tiger yang
+        email: believe3301@gmail.com
+        desc: enjoy coding,enjoy life
+        gravatar: 47b2e3db42e95eea4a9ed24d934daf69
+        github: believe3301
+
+    gravatar: http://en.gravatar.com/avatar/
