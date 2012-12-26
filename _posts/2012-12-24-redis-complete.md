@@ -797,3 +797,7 @@ Redis 应用以及运维
 *方案3*
 
 可以通过类似的将uid进行分段，然后通过hset进行储存，其中mobileno以及email可以储存在不同的db
+
+-EOF-
+
+{% include references.md %}

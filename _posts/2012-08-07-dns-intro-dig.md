@@ -94,3 +94,7 @@ QUESTION SECTION 为请求的格式，ANSWER SECTION 为应答，最后为请求
 其中AUTHORITY SECTION为授权信息，dns服务器信息。ADDITIONAL SECTION 为额外信息。
 
 可以通过dig -x 反向查询，通过ip地址查询主机名称。
+
+-EOF-
+
+{% include references.md %}
