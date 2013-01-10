@@ -1,7 +1,7 @@
 ---
 layout: post
 title: redis源码阅读
-category: linux
+category: nosql
 tags: [redis, nosql,  linux]
 ---
 
