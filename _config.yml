@@ -12,9 +12,10 @@ desc: 记录工作、生活上的点滴
 custom:
     category:
         linux:  Linux
-        perf: 性能调优
+        nosql:  Nosql
+        lang: 编程语言
         tool: 工具
-        cloud:  云计算
+        perf: 性能调优
         travel: 旅游
         life: 生活
 
@@ -22,14 +23,17 @@ custom:
       - name:  linux
         title: Linux
 
-      - name:  perf
-        title: 性能调优
+      - name:  nosql
+        title: Nosql
+
+      - name:  lang
+        title: 编程语言 
 
       - name:  tool
         title: 工具
 
-      - name:  cloud
-        title: 云计算
+      - name:  perf
+        title: 性能调优
 
       - name:  travel
         title: 旅游
