@@ -25,7 +25,7 @@
 </script>
 </head>
 
-<body class="{{ page.pageClass }}">
+<body class="{{ layout.class }}">
 
 <div class="main">
 	{{ content }}
@@ -83,7 +83,7 @@
 	</div>
 </side>
 
-<script src="http://elfjs.googlecode.com/files/elf-0.3.3-min.js"></script>
+<script src="http://elfjs.qiniudn.com/code/elf-0.5.0.min.js"></script>
 <script src="/assets/js/site.js"></script>
 <script src="/assets/js/highlight.js"></script>
 <script src="/assets/js/hljs/languages/css.js"></script>

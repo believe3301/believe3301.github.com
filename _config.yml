@@ -1,12 +1,13 @@
-markdown: kramdown
-pygments: true
+highlighter: pygments
+#pygments: true
 safe: false
 permalink: /posts/:title.html
 exclude:
   - README.md
 
 name: codeserf
-host: believe3301.github.com
+host: 127.0.0.1
+#host: believe3301.github.com
 desc: 记录工作、生活上的点滴
 
 custom:
